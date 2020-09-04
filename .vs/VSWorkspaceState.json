@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\scripts",
+    "\\src",
+    "\\src\\containers",
+    "\\src\\containers\\dashboard",
+    "\\src\\containers\\popups",
+    "\\src\\routers"
+  ],
+  "SelectedNode": "\\src\\routers\\index.js",
+  "PreviewInSolutionExplorer": false
+}
